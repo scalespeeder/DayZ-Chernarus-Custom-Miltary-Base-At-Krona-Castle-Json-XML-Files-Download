@@ -37,7 +37,7 @@ enableCfgGameplayFile = 1;
 (On some PC servers, including Nitrado, the serverDZ.cfg is "hidden", so you need to enable "expert mode" in settings,
 then go to "expert settings", which is the serverDZ.cfg. Stop the server before making changes this way.)
 
-Upload "livonia-hrud-pub.json" and "livonia-sitnickie-pub.json" from the extracted files to inside the "custom" folder of the mission directory on your server. This file places the structures on your map.
+Upload "krona-castle-base.json" from the extracted files to inside the "custom" folder of the mission directory on your server. This file places the structures on your map.
 (If you haven't got a "custom" folder, create one.)
 
 Open the cfggameplay.json file in the correct mission file for your server and look for the "objectSpawnersArr" line.
