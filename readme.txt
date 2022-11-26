@@ -46,11 +46,11 @@ This file tells your server to access your custom file.
 
 Edit it to look like this: 
 
-	"objectSpawnersArr": ["custom/krona-castle-base.json"]
+	"objectSpawnersArr": ["custom/krona-castle-base.json"],
 	
 If you already are calling custom jsons to spawn items, seperate the files like this:
 
-	"objectSpawnersArr": ["custom/krona-castle-base.json","custom/differentfile.json"]
+	"objectSpawnersArr": ["custom/krona-castle-base.json","custom/differentfile.json"],
 	
 Save your changes & upload if you need to.
 	
